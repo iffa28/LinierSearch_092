@@ -64,7 +64,7 @@ void LinierSearch()
 	} while ((ch == 'y') || (ch == 'Y'));
 }
 
-int main()
+int main() 
 {
 	input();
 	LinierSearch();
