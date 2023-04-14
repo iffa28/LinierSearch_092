@@ -35,7 +35,7 @@ void input()
 void LinierSearch() 
 {
 	char ch;
-	int comparisons; // Number of comprisons
+	int comparisons; // Number of comprisons 
 
 	do
 	{
