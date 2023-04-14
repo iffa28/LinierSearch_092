@@ -3,7 +3,7 @@ using namespace std;
 
 int arr[20];  // Array to be searched
 int n;   // Number of elements in the array 
-int i;   // Index pf Array element
+int i;   // Index of Array element 
 
 void input()
 {
