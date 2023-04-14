@@ -32,7 +32,7 @@ void input()
 
 
 
-void LinierSearch()
+void LinierSearch() 
 {
 	char ch;
 	int comparisons; // Number of comprisons
